@@ -1,0 +1,33 @@
+*{
+    background-color: #D1DBFF;
+}
+
+.sidebar nav li{
+    list-style: none;
+    padding: 20px;
+}
+.sidebar nav li a{
+    text-decoration: none;
+    background-color: rgb(79, 246, 160);
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.contactForm{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.mail{
+    padding: 10px;
+}
+
+.number{
+    padding: 10px;
+}
+
+.collab{
+    padding: 10px;
+}
